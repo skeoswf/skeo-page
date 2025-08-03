@@ -1,0 +1,56 @@
+
+--> set up firebase
+	create firebase hosting
+
+--> create firebase files 
+
+--> create middle buttons
+
+--> add middle button movement on focus
+	can be shared --> will probably split with content close right
+
+--> add bottom right button to GitHub repo
+
+--> add content
+	about
+		brief about and why i give a fuck
+	resume
+		brief overview with download link
+	projects
+		need to work out projects json format 
+	contact
+		list of contacts
+
+--> on click, have each content button shift to the left, with content to the right.
+
+--> projects click will have a grid layout of cards. initially, ill just have the cards display the information and link to the repo. 
+
+--> add json content for projects to show
+	name
+	description
+	status
+	additional notes
+	repo link
+
+--> film 4-5 videos
+	chill. still frame. minimal editing. times new roman musings. intimate and relatable without breaching formalities or touching on that tmi line.
+
+--> add to public videos directory
+
+--> add transition ui
+	"main" button to switch between layers
+	
+	"secondary" buttons activated on video layer
+		switch clips
+		mute
+		? button bottom right on why i did this
+
+extras:
+--> add transition effects
+--> add cool hover text following the mouse when the mouse is above the main buttons
+--> fade out ui slowly after moment of no interaction on still frame layers
+--> have the cards click to their own page
+
+foundation
+still frame page 
+extras 
