@@ -54,3 +54,19 @@ extras:
 foundation
 still frame page 
 extras 
+
+
+what would i want on the cards
+
+name of the project
+status of the project
+description of the repo
+repo link
+
+
+completed
+wanting to polish up
+being worked on
+on the backburner
+
+github testing hehe 

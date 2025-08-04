@@ -1,0 +1,26 @@
+{
+  "project1": {
+    "projectId": 1,
+    "projectName": "flickerwalk",
+    "description": "a browser 'game'. i want it to be one of those really cool interactive explorative experiences-- working out an inventory system and storylines that take into account varying player choices, with an emphasis on gradually revealing the story.",
+    "repoLink": "https://github.com/skeoswf/flickerwalk",
+    "imageURL": "https://i.imgur.com/Rkia3d1.png",
+    "activeLink": "https://skeoswf.github.io/flickerwalk/",
+    "status": [
+      "being worked on",
+      "on the backburner"
+    ]
+  },
+  "project2": {
+    "projectId": 2,
+    "projectName": "calculator",
+    "description": "calculator i made way back when. im really proud of the styling i did back then. ive been meaning to rework some dimensions for it and get it to work as an app on my phone. thatd be neat.",
+    "repoLink": "https://github.com/skeoswf/calculator",
+    "imageURL": "https://i.imgur.com/4vhGhbC.png",
+    "activeLink": "https://skeocalculator-lab.netlify.app/",
+    "status": [
+      "completed",
+      "wanting to polish up"
+    ]
+  }
+}
