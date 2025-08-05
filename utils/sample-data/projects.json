@@ -6,10 +6,7 @@
     "repoLink": "https://github.com/skeoswf/flickerwalk",
     "imageURL": "https://i.imgur.com/Rkia3d1.png",
     "activeLink": "https://skeoswf.github.io/flickerwalk/",
-    "status": [
-      "being worked on",
-      "on the backburner"
-    ]
+    "status": "being worked on"
   },
   "project2": {
     "projectId": 2,
@@ -18,9 +15,42 @@
     "repoLink": "https://github.com/skeoswf/calculator",
     "imageURL": "https://i.imgur.com/4vhGhbC.png",
     "activeLink": "https://skeocalculator-lab.netlify.app/",
-    "status": [
-      "completed",
-      "wanting to polish up"
-    ]
+    "status": "completed"
+  },
+  "project3": {
+    "projectId": 3,
+    "projectName": "notemap!",
+    "description": "an application tailored for both casual and professional musicians to organize their upcoming gigs, with a secondary function to search for and connect with other musicians. id love to polish ui and scale up.",
+    "repoLink": "https://github.com/skeoswf/notemap",
+    "imageURL": "https://i.imgur.com/kIB8ve7.png",
+    "activeLink": "https://www.loom.com/share/6b58bc0a28b145e4bea357c054167d6c",
+    "status": "on the backburner"
+  },
+  "project4": {
+    "projectId": 4,
+    "projectName": "groovetime! (backend)",
+    "description": "i made this app as a low-committment weekly fun thing-to-do -- gamified music sharing! there's a fresh prompt every week and a point system that awards participation and competitiveness. groovetime becomes a dynamic and exciting way to share music!! i need to scale this up it'd be so fun. this was more or less my introduction to python.",
+    "repoLink": "https://github.com/skeoswf/groovetime-backend",
+    "imageURL": "https://i.imgur.com/sv6fKxs.png",
+    "activeLink": "https://documenter.getpostman.com/view/29718199/2sAYk7S4VD#intro",
+    "status": "completed"
+  },
+  "project5": {
+    "projectId": 5,
+    "projectName": "vocabYOUlary",
+    "description": "individual assessment where i demonstrated full crud capabilities and functionality on user submitted vocabulary terms.",
+    "repoLink": "https://github.com/skeoswf/vocab-you-lary",
+    "imageURL": "https://i.imgur.com/45wTgiW.png",
+    "activeLink": "https://skeovocab.netlify.app/",
+    "status": "completed"
+  },
+  "project6": {
+    "projectId": 6,
+    "projectName": "word counta",
+    "description": "word counter with a little bit of fun. at least it has a toggle theme button! i used regex. could i have split(\" \")...yes-- but then of course, it would return empty strings and break with tabs and new lines and is in general less robust. but im wondering if my solution still isnt perfect.",
+    "repoLink": "https://github.com/skeoswf/word-counter?tab=readme-ov-file",
+    "imageURL": "https://i.imgur.com/2ISJOy8.png",
+    "activeLink": "https://skeowordcounter.netlify.app/",
+    "status": "completed"
   }
 }
